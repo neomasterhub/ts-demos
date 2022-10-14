@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "System",
+        "removeComments": true,
+        "outFile": "index-configured.js"
+    },
+    "files": [
+      "index.ts"
+    ]
+}
